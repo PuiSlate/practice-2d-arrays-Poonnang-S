@@ -4,6 +4,7 @@ let allScores = [
     [84, 69, 75],
     [77, 95, 54]
 ];
+console.log(allScores);
 
 //Challenge 2. 
 let theaterSeating = [
@@ -11,9 +12,11 @@ let theaterSeating = [
     ["B1", "B2", "B3", "B4"],
     ["C1", "C2", "C3", "C4"]
 ];
+console.log(theaterSeating);
 
 //Challenge 3.
 let contactsList = [
     ["Alice", "alice@gmail.com", "3142563254"],
     ["Michael", "michael@gmail.com", "5731248934"],
 ];
+console.log(contactList);
